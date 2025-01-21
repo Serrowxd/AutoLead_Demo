@@ -1,5 +1,12 @@
 # AutoLead: Your Dealership's Virtual Sales Assistant
 
+### **Changelog**
+
+`Version 1.0`
+  - Webhook integration with Crisp; we're live!
+  - GPT refinement pass. The bot will now respond with more concise answers and direct the conversation.
+  - Chat persistence & thread context. AutoLead now has context across the entire conversation, and will use that information to assist in the sales process!
+
 ## **Introduction**
 
 AutoLead is a cutting-edge virtual sales assistant designed specifically for car dealerships to maximize customer engagement, streamline lead generation, and drive more sales. Using AI-powered chatbot technology, AutoLead ensures your dealership captures every opportunity, whether it’s answering customer questions, recommending vehicles, or scheduling test drives—all through a sleek and user-friendly interface.
