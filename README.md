@@ -87,15 +87,6 @@ AutoLead is a cutting-edge virtual sales assistant designed specifically for car
 4. **Lead Delivery**:
    - Sends detailed lead information (including preferences, selected vehicles, and lead score) to the dealership.
 
-### **Backend Integration**
-
-- **Crisp Chatbot**:
-  - Embedded directly into your website for customer interaction.
-  - Handles FAQs and passes complex queries to AutoLead’s custom GPT system.
-- **Make.com Backend**:
-  - Handles data scraping, API integrations, and email notifications.
-  - Stores inventory and operational data securely for seamless integration.
-
 ## **Why Choose AutoLead?**
 
 ### **1. Boost Sales and Leads**
