@@ -2,12 +2,12 @@
 
 ### **Changelog**
 
-`Version 1.1` - `January 22, 2025`
+`Version 1.1` - January 22, 2025
   - Implemented error handling for threads; multiple prompts to the chat will no longer cause the bot to fail.
   - Added an indicator for when the bot is working through a request.
   - Further refinement of the AI model.
 
-`Version 1.0` - `January 18, 2025`
+`Version 1.0` - January 18, 2025
   - Webhook integration with Crisp; we're live!
   - AI model refinement pass. The bot will now respond with more concise answers and direct the conversation.
   - Chat persistence & thread context. AutoLead now has context across the entire conversation, and will use that information to assist in the sales process!
